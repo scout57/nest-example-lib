@@ -9,6 +9,10 @@
     "build": "rimraf dist && tsc",
     "prepublish": "npm run build"
   },
+  "files": [
+    "src",
+    "tsconfig.json"
+  ],
   "author": "Korol Alexey",
   "license": "ISC",
   "dependencies": {
