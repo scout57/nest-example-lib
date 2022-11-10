@@ -10,7 +10,9 @@
     "prepublish": "npm run build"
   },
   "files": [
-    "dist"
+    "dist",
+    "*.d.ts",
+    "*.js"
   ],
   "author": "Korol Alexey",
   "license": "ISC",
