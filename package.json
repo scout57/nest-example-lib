@@ -10,9 +10,7 @@
     "prepublish": "npm run build"
   },
   "files": [
-    "src",
-    "dist",
-    "tsconfig.json"
+    "dist"
   ],
   "author": "Korol Alexey",
   "license": "ISC",
