@@ -1,2 +1,2 @@
-export * from './gladiator.module';
-export * from './gladiator.service';
+export * from './scout.module';
+export * from './scout.service';

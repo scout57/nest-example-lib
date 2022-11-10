@@ -1,7 +1,7 @@
 {
-  "name": "gladiator",
+  "name": "@scout55/nestjs-lib-sample",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ctrl-c ctrl-v and have made lib",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -15,7 +15,7 @@
     "*.js"
   ],
   "author": "Korol Alexey",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@nestjs/common": "^8.2.3",
     "@types/node": "^16.11.13",

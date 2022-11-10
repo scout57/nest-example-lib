@@ -1,0 +1,1 @@
+{"version":3,"file":"scout.module.d.ts","sourceRoot":"","sources":["../src/scout.module.ts"],"names":[],"mappings":"AAAA,OAAO,EAAU,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAEvD,OAAO,EAAE,eAAe,EAAE,MAAM,yBAAyB,CAAC;AAE1D,qBACa,WAAW;IACtB,MAAM,CAAC,QAAQ,CAAC,OAAO,EAAE,eAAe,GAAI,aAAa;CAa1D"}
