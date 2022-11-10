@@ -1,0 +1,1 @@
+{"version":3,"file":"gladiator.module.d.ts","sourceRoot":"","sources":["../src/gladiator.module.ts"],"names":[],"mappings":"AAAA,OAAO,EAAU,aAAa,EAAE,MAAM,gBAAgB,CAAC;AAEvD,OAAO,EAAE,mBAAmB,EAAE,MAAM,6BAA6B,CAAC;AAElE,qBACa,eAAe;IAC1B,MAAM,CAAC,QAAQ,CAAC,OAAO,EAAE,mBAAmB,GAAI,aAAa;CAa9D"}
